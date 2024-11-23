@@ -43,7 +43,7 @@ Each instance is a tabular datapoint. The makeup of each point depends on its da
 
 ### How many instances are there in total (of each type, if appropriate)?
 
-See Table 3 in our paper for a breakdown of the number of instances for each dataset.
+See Table 4 in our paper for a breakdown of the number of instances for each dataset.
 
 ### What data does each instance consist of ? “Raw” data (e.g., unprocessed text or images)? Features/attributes? Is there a label/target associated with instances? If the instances related to people, are subpopulations identified (e.g., by age, gender, etc.) and what is their distribution?
 
